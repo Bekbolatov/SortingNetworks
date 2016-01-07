@@ -4,9 +4,7 @@ import scala.annotation.tailrec
 
 /**
  *
- * CSEP 524 Spring 2015 - Parallel Computation
- *
- * Homework #3 addition: function to calculate partners in Batcher's Odd-Even merge network
+ * Calculation of partners in Batcher's Odd-Even merge network
  *
  * Renat Bekbolatov, Apr 21, 2015
  *
